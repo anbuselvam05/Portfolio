@@ -37,5 +37,5 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](![image](https://github.com/user-attachments/assets/a031d39b-cc7a-43c7-8d03-617676b0789d)
+![Portfolio](![image](Portfolio-Website-master/Screenshot (29).png)
 )
